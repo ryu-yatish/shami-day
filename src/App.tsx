@@ -1,13 +1,17 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import './App.css'
 
-// Placeholder poem - will be replaced later
 const poemLines = [
-  "This is a placeholder line for your beautiful poem",
-  "Each line will appear on its own page",
-  "You can replace these lines with your actual poem",
-  "The book will turn page by page",
-  "Creating a magical reading experience"
+  "words would never truly be enough,",
+  "to describe what you are to me",
+  "you are the world itself.",
+  "like seasons, ever changing",
+  "your smile, the bluest clear skies",
+  "your melancholy, the deepest autumn",
+  "your zest like the first spring blossoms",
+  "I could keep trying and never finish",
+  "so instead all I'll say is this",
+  "thank you for being my world"
 ]
 
 // Confetti particle
@@ -500,9 +504,7 @@ function App() {
                 <span className="letter-heart">💕</span>
               </div>
               <p className="letter-content">
-                [Your beautiful love letter will go here. 
-                Write from your heart, and it will appear in this elegant letter format.
-                Every word will be treasured forever.]
+                It's here, whether we like it or not. 25th birthday. I know you're not a fan of growing older, but hey at least your prefrontal cortex is almost fully developed now. The most important thing is that we're growing older together and I wouldn't have it any other way. You have been a changing constant in my life for years now and what a journey it has been, through ups and downs, through trips and cafes, through sickness and health. You have matured, changed and become more of who you are and it has been my pleasure to be witness to this journey. So here's to another small checkpoint. Happy Birthday my dearest cheesecake 🍰
               </p>
               <div className="letter-footer">
                 <span>Forever yours,</span>
