@@ -523,7 +523,7 @@ function App() {
         <div className="quirky-cards">
           <div className="quirky-card" style={{ animationDelay: '0s' }}>
             <span className="quirky-emoji">😊</span>
-            <p>Your smile lights up every room</p>
+            <p>Your smile lights up my heart</p>
           </div>
           <div className="quirky-card" style={{ animationDelay: '0.2s' }}>
             <span className="quirky-emoji">💪</span>
